@@ -30,6 +30,7 @@ bool CheckPelindrom(int X)
     }
     return 0;
 }
+
 int main(void)
 {
     int T;
