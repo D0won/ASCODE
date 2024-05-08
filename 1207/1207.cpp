@@ -10,4 +10,5 @@ int main()
         double root3 = sqrt(3.0);
         printf("%.5lf\n", root3 * a * a / 4.0);
     }
+    return 0;
 }
